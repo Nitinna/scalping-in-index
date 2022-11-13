@@ -191,3 +191,7 @@ def telegram_bot_sendtext(bot_message):
 
 	return response.json()
 
+
+def sum_two_nun(num,num2):
+	summ = num + num2
+	return summ
